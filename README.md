@@ -15,15 +15,13 @@ As an attitude that inspires me, I've found that cultivating resilience and adap
 
 Connect with me
 -------
-<p align="left">
-<a href="https://www.github.com/ilagjo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>   
+<p align="left">   
 <a href="https://www.linkedin.com/in/ilaria-clg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 Skills
 ------
-
 <table><tr><td valign="top" width="50%">
-
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
