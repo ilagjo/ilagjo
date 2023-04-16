@@ -1,6 +1,6 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" /></div>
 
-Hi 👋 My name is Ilaria
+Hi everyone 👋 I'm Ilaria
 ==============================================================================================================================
 
 A quick learner passionate about web development
@@ -9,7 +9,7 @@ As an attitude that inspires me, I've found that cultivating resilience and adap
 
 *   🌍  I'm based in Milan
 *   ✉️  You can contact me at [ilaria.clg@outlook.it](mailto:ilaria.clg@outlook.it)
-*   🚀  I'm currently working on my portfolio [(coming soon)](http://#)
+*   🚀  I'm currently working on my portfolio [(coming soon)](http://github.com/ilagjo)
 *   🧠  I'm currently learning Angular, C#, .NET
 *   ⚡  I'm looking for a job opportunity
 
@@ -71,4 +71,4 @@ Badges and stats
 
 -----
 </br>
-<div align="center">Generated adapting the code provided by <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GH profile READ.ME generator</a>, and <a href="https://www.profileme.dev/">ProfileMe.dev</a>.</div>
+<div align="center">Created adapting the code provided by <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GH profile READ.ME generator</a>, and <a href="https://www.profileme.dev/">ProfileMe.dev</a>.</div>
