@@ -1,4 +1,3 @@
-<div align="center"><img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" /></div>
 
 Hi everyone 👋 I'm Ilaria
 ==============================================================================================================================
