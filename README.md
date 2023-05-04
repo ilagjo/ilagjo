@@ -38,7 +38,7 @@ Skills
 
 </td><td valign="top" width="50%">
 
-<b> Backend </b>
+<b> Backend and Database </b>
 <div align="center"> 
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
@@ -46,6 +46,13 @@ Skills
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<br/>
+
+<div align="left">
+<b>IDEs </b>
+<br/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU4ZmFlOWFkYzI4MGM5YTk5NWFkOGJjYzQyNDNhMzYyMWRkOGY4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/DDTBPPHwBlhwYaTYFT/giphy.gif" alt="VS and VScode" width="45px" height="45px"/>
+</div>
 </div>
 
 
@@ -55,7 +62,7 @@ Badges and stats
 ------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilagjo&label=Profile%20views&color=0e75b6&style=flat" alt="ilagjo" /> </p>
 
-<details><summary><h3>:trophy: Github Thophies</h3></summary><p align="left">
+<details><summary><h3>:trophy: Github Trophies</h3></summary><p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilagjo" alt="ilagjo" /></a> </p></details>
 
 <details><summary><h3>:bar_chart: Github Profile Stats</h3></summary><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilagjo&show_icons=true&locale=en&layout=compact" alt="ilagjo" />
