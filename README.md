@@ -1,4 +1,3 @@
-
 Hi everyone 👋 I'm Ilaria
 ==============================================================================================================================
 
@@ -21,7 +20,7 @@ Skills
 ------
 <table><tr><td valign="top" width="50%">
   
-### Frontend  
+<b> Frontend </b>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -39,7 +38,7 @@ Skills
 
 </td><td valign="top" width="50%">
 
-### Backend  
+<b> Backend </b>
 <div align="center"> 
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
@@ -52,22 +51,22 @@ Skills
 
 </td></tr></table>  
 
-<br/>  
-
-
 Badges and stats
 ------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilagjo&label=Profile%20views&color=0e75b6&style=flat" alt="ilagjo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilagjo" alt="ilagjo" /></a> </p>
+<details><summary><h3>:trophy: Github Thophies</h3></summary><p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilagjo" alt="ilagjo" /></a> </p></details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilagjo&show_icons=true&locale=en&layout=compact" alt="ilagjo" /></p>
+<details><summary><h3>:bar_chart: Github Profile Stats</h3></summary><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilagjo&show_icons=true&locale=en&layout=compact" alt="ilagjo" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ilagjo&show_icons=true&locale=en" alt="ilagjo" /></p>
+<b>Note:</b>
+<span><em>Most Used Languages</em> is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilagjo&show_icons=true&locale=en" alt="ilagjo" /></p>
-
+<details><summary><h3>:fire: Github Recent Activities</h3></summary>
 <a href="http://www.github.com/ilagjo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ilagjo&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
 -----
-</br>
-<div align="center">Created adapting the code provided by <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GH profile READ.ME generator</a>, and <a href="https://www.profileme.dev/">ProfileMe.dev</a>.</div>
+<br/>
+<div>The skill icons and graphics used in this README.md file are sourced from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GH profile READ.ME generator</a>, and <a href="https://www.profileme.dev/">ProfileMe.dev</a>.</div>
