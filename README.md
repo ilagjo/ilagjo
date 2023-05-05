@@ -17,6 +17,7 @@ Connect with me
 <a href="https://www.linkedin.com/in/ilaria-clg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.hackerrank.com/ilaria_clg" target="_blank" rel="noreferrer"><img src="hackerrank_logo-21e2867566.png" width="32" height="32" /></a>
 <a href="https://codepen.io/ilagjo/pens/showcase" target="_blank" rel="noreferrer"><img src="1298732_codepen_icon.png" width="32" height="32" /></a>
+<a href="https://linktr.ee/ilaria.clg" target="_blank" rel="noreferrer"><img src="https://github.com/ilagjo/ilagjo/blob/eabf4fb77cdfc630b90d510790d717491d634c20/linktree-logo-icon.png" width="32" height="32" /></a>
 </p>
 
 Skills
@@ -54,7 +55,7 @@ Skills
 <div align="left">
 <b>IDEs </b>
 <br/>
-<img src="https://github.com/ilagjo/ilagjo/blob/92d21406734528466ef312df2b69b3feda6445f7/gifmaker_me%20(2).gif" alt="VS and VScode" width="45px" height="45px"/>
+<img src="https://github.com/ilagjo/ilagjo/blob/92d21406734528466ef312df2b69b3feda6445f7/gifmaker_me%20(2).gif" alt="VS and VScode" width="40px" height="40px"/>
 </div>
 </div>
 
