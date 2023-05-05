@@ -5,8 +5,8 @@ A quick learner passionate about web development
 -------------------------
 As an attitude that inspires me, I've found that cultivating resilience and adaptability has helped me grow personally by fostering strong relationships and empathy. This is why I've been drawn to web development, which allows people to connect with each other through constantly evolving technologies and communication skills. Currently, I'm attending a <em>Full-Stack Development Academy</em> to strengthen my front-end development expertise and gain experience in back-end development. This program offers an exciting opportunity to expand my skills and knowledge in a field that's constantly evolving.
 
-*   🌍  I'm based in Milan
-*   ✉️  You can contact me at [ilaria.clg@outlook.it](mailto:ilaria.clg@outlook.it)
+*   🌍  I'm based in Milan, Italy
+*   ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/ilaria-clg)
 *   🚀  I'm currently working on my portfolio [(coming soon)](http://github.com/ilagjo)
 *   🧠  I'm currently learning Angular, C#, .NET
 *   ⚡  I'm looking for a job opportunity
@@ -14,7 +14,10 @@ As an attitude that inspires me, I've found that cultivating resilience and adap
 Connect with me
 -------
 <p align="left">   
-<a href="https://www.linkedin.com/in/ilaria-clg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/ilaria-clg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.hackerrank.com/ilaria_clg" target="_blank" rel="noreferrer"><img src="hackerrank_logo-21e2867566.png" width="32" height="32" /></a>
+<a href="https://codepen.io/ilagjo/pens/showcase" target="_blank" rel="noreferrer"><img src="1298732_codepen_icon.png" width="32" height="32" /></a>
+</p>
 
 Skills
 ------
@@ -51,7 +54,7 @@ Skills
 <div align="left">
 <b>IDEs </b>
 <br/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU4ZmFlOWFkYzI4MGM5YTk5NWFkOGJjYzQyNDNhMzYyMWRkOGY4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/DDTBPPHwBlhwYaTYFT/giphy.gif" alt="VS and VScode" width="45px" height="45px"/>
+<img src="https://github.com/ilagjo/ilagjo/blob/92d21406734528466ef312df2b69b3feda6445f7/gifmaker_me%20(2).gif" alt="VS and VScode" width="45px" height="45px"/>
 </div>
 </div>
 
