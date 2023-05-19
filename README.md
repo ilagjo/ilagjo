@@ -3,7 +3,7 @@ Hi everyone 👋 I'm Ilaria
 
 A quick learner passionate about web development
 -------------------------
-As an attitude that inspires me, I've found that cultivating resilience and adaptability has helped me grow personally by fostering strong relationships and empathy. This is why I've been drawn to web development, which allows people to connect with each other through constantly evolving technologies and communication skills. Currently, I'm attending a <em>Full-Stack Development Academy</em> to strengthen my front-end development expertise and gain experience in back-end development. This program offers an exciting opportunity to expand my skills and knowledge in a field that's constantly evolving.
+As an attitude that inspires me, I've found that cultivating resilience and adaptability has helped me grow personally by fostering strong relationships and empathy. This is why I've been drawn to web development, which allows people to connect with each other through constantly evolving technologies and communication skills. Previously, I attended a <em>Full-Stack Development Academy</em> to enhance my front-end development expertise and acquire experience in back-end development. That program provided an exciting opportunity for me to broaden my skills and knowledge in a field that was constantly evolving.
 
 *   🌍  I'm based in Milan, Italy
 *   ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/ilaria-clg)
@@ -14,7 +14,7 @@ As an attitude that inspires me, I've found that cultivating resilience and adap
 Connect with me
 -------
 <p align="left">   
-<a href="https://www.linkedin.com/in/ilaria-clg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/ilaria-clg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
 <a href="https://www.hackerrank.com/ilaria_clg" target="_blank" rel="noreferrer"><img src="hackerrank_logo-21e2867566.png" width="32" height="32" /></a>
 <a href="https://codepen.io/ilagjo/pens/showcase" target="_blank" rel="noreferrer"><img src="https://github.com/ilagjo/ilagjo/blob/7100f9ac4b0d3ae819858e77dce8817d600cb6dd/codepen_icon.png" width="32" height="32" /></a>
 <a href="https://linktr.ee/ilaria.clg" target="_blank" rel="noreferrer"><img src="https://github.com/ilagjo/ilagjo/blob/eabf4fb77cdfc630b90d510790d717491d634c20/linktree-logo-icon.png" width="32" height="32" /></a>
@@ -66,16 +66,16 @@ Badges and stats
 ------
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilagjo&label=Profile%20views&color=0e75b6&style=flat" alt="ilagjo" /> </p>
 
-<details><summary><h3>:trophy: Github Trophies</h3></summary><p align="left">
+<details><summary><b>:trophy: Github Trophies</b></summary><p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilagjo" alt="ilagjo" /></a> </p></details>
 
-<details><summary><h3>:bar_chart: Github Profile Stats</h3></summary><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilagjo&show_icons=true&locale=en&layout=compact" alt="ilagjo" />
+<details><summary><b>:bar_chart: Github Profile Stats</b></summary><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilagjo&show_icons=true&locale=en&layout=compact" alt="ilagjo" />
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ilagjo&show_icons=true&locale=en" alt="ilagjo" /></p>
 <b>Note:</b>
 <span><em>Most Used Languages</em> is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>
 </details>
 
-<details><summary><h3>:fire: Github Recent Activities</h3></summary>
+<details><summary><b>:fire: Github Recent Activities</b></summary>
 <a href="http://www.github.com/ilagjo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ilagjo&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 -----
