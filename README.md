@@ -7,7 +7,7 @@ As an attitude that inspires me, I've found that cultivating resilience and adap
 
 *   🌍  I'm based in Milan, Italy
 *   ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/ilaria-clg)
-*   🚀  I'm currently working on my portfolio [(coming soon)]([http://github.com/ilagjo](https://github.com/ilagjo?tab=repositories))
+*   🚀  I'm currently working on my portfolio [(coming soon)](https://github.com/ilagjo?tab=repositories)
 *   🧠  I'm currently learning Angular, C#, .NET
 *   ⚡  I'm looking for a job opportunity
 
