@@ -75,9 +75,5 @@ Badges and stats
 <span><em>Most Used Languages</em> is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>
 </details>
 
-<details><summary><b>:fire: Github Recent Activities</b></summary>
-<a href="http://www.github.com/ilagjo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ilagjo&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
------
 <br/>
-<div>The skill icons and graphics used in this README.md file are sourced from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">GH profile READ.ME generator</a>, and <a href="https://www.profileme.dev/">ProfileMe.dev</a>.</div>
+<i>Most of the skill icons used in this README.md file are sourced from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></i>
