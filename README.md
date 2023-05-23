@@ -3,7 +3,7 @@ Hi everyone 👋 I'm Ilaria
 
 A quick learner passionate about web development
 -------------------------
-As an attitude that inspires me, I've found that cultivating resilience and adaptability has helped me grow personally by fostering strong relationships and empathy. This is why I've been drawn to web development, which allows people to connect with each other through constantly evolving technologies and communication skills. Previously, I attended a <em>Full-Stack Development Academy</em> to enhance my front-end development expertise and acquire experience in back-end development. That program provided an exciting opportunity for me to broaden my skills and knowledge in a field that was constantly evolving.
+As an attitude that inspires me, I've found that cultivating resilience and adaptability has helped me grow personally by fostering strong relationships and empathy. This is why I've been drawn to web development, which allows people to connect with each other through constantly evolving technologies, and communication skills. I recently completed an intensive <em>Full-Stack Development Academy</em> program, which has greatly enhanced my skills in front-end development and provided me with valuable insights into back-end development. This was an exciting opportunity for me to broaden my skills and knowledge in a field that continues to captivate me.
 
 *   🌍  I'm based in Milan, Italy
 *   ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/ilaria-clg)
