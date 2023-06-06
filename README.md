@@ -26,28 +26,28 @@ Skills
   
 <b> Frontend </b>
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/react.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/css.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/html.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/javascript.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/typescript.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/GIT.svg" alt="Git" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/material.png" alt="Material UI" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/angular.svg" alt="Angular" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/scss.svg" alt="Sass" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/webpack.svg" alt="Webpack" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/node.svg" alt="Node.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="50%">
 
 <b> Backend and Database </b>
 <div align="center"> 
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/dotNET.svg" alt=".NET" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/azure.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/c.svg" alt="C" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://github.com/ilagjo/ilagjo/blob/308aaec5659c1524cf62610b093dbcf8ce19950e/skill-icons/cSharp.svg" alt="C#" height="50" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <br/>
@@ -74,6 +74,3 @@ Badges and stats
 <b>Note:</b>
 <span><em>Most Used Languages</em> is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>
 </details>
-
-<br/>
-<i>Most of the skill icons used in this README.md file are sourced from <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></i>
